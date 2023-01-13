@@ -1,0 +1,45 @@
+
+body {
+    background: rgb(116,177,223);
+    background: linear-gradient(132deg, rgba(116,177,223,1) 0%, rgba(9,9,121,1) 72%, rgba(0,212,255,1) 100%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.container{
+    background: lightslategray;
+    display:inline-block;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+}
+p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    background: lightslategray;
+    padding: 5px;
+    width: 65%;
+
+}
+h1 {
+    border-radius: 8px;
+    background: lightslategray;
+    padding: 5px;
+    
+
+}
+img {
+    border-radius: 14px;
+}
+
+.decal {
+   width:100px;
+   height:auto;
+   object-position: top left;
+}
+.link a{
+    text-decoration: none;
+    background: lightslategray;
+}
+
